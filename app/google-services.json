@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "821116544590",
+    "firebase_url": "https://agromonitor-ee774-default-rtdb.firebaseio.com",
+    "project_id": "agromonitor-ee774",
+    "storage_bucket": "agromonitor-ee774.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:821116544590:android:7a831bbac87d26a760451f",
+        "android_client_info": {
+          "package_name": "com.rpn.smartgardening"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAB5yFoI2Gm361abQCnZNJugWPY7DxT_J8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
